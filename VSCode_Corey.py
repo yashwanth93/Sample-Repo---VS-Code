@@ -16,3 +16,5 @@ print(greet("Corey"))
  
 name = input("Your name mister? ")
 print("Hello Mr.", name)
+
+print("I am adding this print line to check how Git displays the 'diff' using clours red and green")
